@@ -1,0 +1,14 @@
+.slick-slider {
+    width: 90% !important;
+    margin-left: 5%;
+}
+.slick-prev, .slick-next, .slick-prev { color: black !important;}
+.slick-next:before, .slick-prev::before {
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    opacity: .75;
+    color: black !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
